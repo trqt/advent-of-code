@@ -1,5 +1,6 @@
 *.out
 *.o
 input.txt
+test.txt
 teste
 target/
